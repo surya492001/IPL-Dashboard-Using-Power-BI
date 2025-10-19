@@ -12,13 +12,13 @@ An interactive IPL Dashboard built using **Power BI** to provide real-time insig
 ## Screenshots
 
 _Home Dashboard:_  
-![Home Dashboard](screenshots/home_dashboard.png)
+![Home Dashboard](https://github.com/surya492001/IPL-Dashboard-Using-Power-BI/blob/main/Home%20page.png)
 
 _Scorecard & Stats:_  
-![Scorecard](screenshots/scorecard_stats.png)
+![Scorecard](https://github.com/surya492001/IPL-Dashboard-Using-Power-BI/blob/main/Scorecard%20page.png)
 
 _Points Table:_  
-![Points Table](screenshots/points_table.png)
+![Points Table](https://github.com/surya492001/IPL-Dashboard-Using-Power-BI/blob/main/Points%20table.png)
 
 ## How to Use
 
@@ -32,7 +32,7 @@ _Points Table:_
 ## Tech Stack
 
 - **Power BI Desktop**  
-- Datasets: IPL match data (CSV / API / manually updated)
+- Datasets: IPL match data (Rapid API)
 
 ## Contributing
 
@@ -43,7 +43,7 @@ Feel free to fork this repository and add new features like:
 
 ## License
 
-This project is **open source** and available under the [MIT License](LICENSE).
+This project is **open source**.
 
 ---
 
